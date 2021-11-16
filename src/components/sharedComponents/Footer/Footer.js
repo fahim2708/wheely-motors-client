@@ -6,14 +6,14 @@ const Footer = () => {
     return (
         <div className='bg-yellow-200'>
             <div className='container mx-auto pt-12 pb-4'>
-                <h2 className='text-4xl text-center'>Bikez Ride</h2>
-                <h3 className='text-center py-8 text-2xl'>
+                <h2 className='text-4xl text-center'>WHEELY</h2>
+                {/* <h3 className='text-center py-8 text-2xl'>
                     Subscribe Our Newsletter
                 </h3>
                 <div className='md:w-1/2  md:mx-auto mx-2 flex bg-primary rounded-full'>
                     <input className='w-full rounded-l-full' type='text' />
                     <button className='text-white px-4 py-2 '>Subscribe</button>
-                </div>
+                </div> */}
 
                 <ul className='flex justify-center pt-8'>
                     <li className='text-xl px-4 text-primary'>
